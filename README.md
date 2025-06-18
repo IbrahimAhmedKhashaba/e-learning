@@ -5,7 +5,7 @@ A web-based learning management system built with Laravel. It connects teachers 
 ## 📚 Features
 
 - 🧑‍🏫 Teacher Dashboard  
-  - Upload lesson materials (PDFs, videos, etc.)  
+  - Upload lesson materials (PDFs, etc.)  
   - Create quizzes and exams  
   - Evaluate students and assign grades  
 
